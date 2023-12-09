@@ -1,6 +1,6 @@
 # pdb2S2
 
-pdb2S2 computes S2 order parameters from molecular dynamics trajectories or conformational ensembles 
+pdb2S2 computes S2 order parameters from molecular dynamics trajectories or NMR conformational ensembles 
 
 pdb2S2 program takes in input 4 arguments:
 
