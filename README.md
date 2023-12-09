@@ -4,7 +4,7 @@ pdb2S2 computes S2 order parameters from molecular dynamics trajectories or NMR 
 
 pdb2S2 program takes in input 4 arguments:
 
-- the file name of a molecular dynamics trajectory in PDB format (each snapshot separated by MODEL/ENDMDL records).
+- the file name of a molecular dynamics trajectory or NMR conformational ensembles in PDB format (each snapshot separated by MODEL/ENDMDL records).
 
 - the name of the first atom of the vector for which S2 is computed. If this is located on the preceding residue the name is preceded by a "-".
 
